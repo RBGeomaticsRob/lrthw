@@ -3,3 +3,5 @@
 2. How would you bring in an argument from the command line and a user input into the same process?
 
 3. What is the command to close a file currently assign to variable myfile.
+
+4. When opening a file object, what does the parameter 'a+' mean?
