@@ -1,7 +1,7 @@
 #Print the line of text to the screen
 puts "I will now count my chickens:"
 #Print Hens calc to screen 30/6 before +25
-puts "Hens #{25+30/6}"
+puts "Hens #{25.0+30/6}"
 #Print Roosters order 25*3 then mod 4 then 100 -
 puts "Roosters #{100 - 25 * 3 % 4}"
 #Print the line of text
@@ -27,3 +27,4 @@ puts "Is it greater? #{5 > -2}"
 puts "Is it greater or equal? #{5 >= -2}"
 # Prints some text and the result of finding whether 5 less than or equal to minus 2.
 puts "Is it less or equal? #{5 <= -2}"
+
