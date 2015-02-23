@@ -1,1 +1,5 @@
 1. Input 'one' argument from the terminal into a string of text to be shown on the screen. This must show as the value of the argument entered, not an array.
+
+2. How would you bring in an argument from the command line and a user input into the same process?
+
+3. What is the command to close a file currently assign to variable myfile.
