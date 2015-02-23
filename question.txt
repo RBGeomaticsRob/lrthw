@@ -1,0 +1,1 @@
+1. Input 'one' argument from the terminal into a string of text to be shown on the screen. This must show as the value of the argument entered, not an array.
