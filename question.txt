@@ -18,3 +18,7 @@ if people >= trucks || cars > people
 else
 	puts "Fine, lets stay at home then."
 end
+
+6. Using a range method output a range at a interval of 4 and output to an array.
+Answer -  numbers = []
+          (0...20).step(4) {|i| numbers.push(i)}
