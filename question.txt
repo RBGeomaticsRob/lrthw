@@ -22,3 +22,6 @@ end
 6. Using a range method output a range at a interval of 4 and output to an array.
 Answer -  numbers = []
           (0...20).step(4) {|i| numbers.push(i)}
+
+7. Given the two arrays [1,3,5,'T',7] and [1,7,'F',5,'P'] return array containing only the variables that occur in both of the original arrays using only one line.
+Answer - [1,3,5,'T',7] & [1,7,'F',5,'P']
