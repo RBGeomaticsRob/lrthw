@@ -5,3 +5,16 @@
 3. What is the command to close a file currently assign to variable myfile.
 
 4. When opening a file object, what does the parameter 'a+' mean?
+
+5. if people >= trucks || cars !< people
+	puts "Alright lets take the trucks"
+else
+	puts "Fine, lets stay at home then."
+end
+
+Answer
+if people >= trucks || cars > people
+	puts "Alright lets take the trucks"
+else
+	puts "Fine, lets stay at home then."
+end
